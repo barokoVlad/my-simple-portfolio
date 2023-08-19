@@ -5001,7 +5001,7 @@ sup {
 }
 
 .user-btn {
-    font-size: 100%;
+    font-size: inherit;
     margin: auto auto;
 }
 
@@ -5072,7 +5072,6 @@ body {
     .contents-right,
     .images-right {
         float: right;
-        width: 48%
     }
 
     .images-right img {
