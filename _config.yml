@@ -1,6 +1,6 @@
 # Site settings
-title: My Portfolio
-description: Last Updated - 19 August 2023
+title: Vladyslav Brovko Home Page
+description: Vladyslav Brovko Home Page
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
@@ -14,6 +14,6 @@ gplus_username:  lorem_ipsum
 
 # Google-analytics
 google-analytics:
-  id: ""
+  id: "G-EBPX38YX8F"
 
 exclude: ['package.json', 'src' , 'node_modules']
