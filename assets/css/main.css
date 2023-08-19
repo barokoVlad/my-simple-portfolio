@@ -5002,7 +5002,7 @@ sup {
 
 .user-btn {
     font-size: 10px;
-    margin: auto auto;
+    margin: auto auto !important;
 }
 
 .user p {
