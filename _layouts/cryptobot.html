@@ -1,4 +1,4 @@
-<!-- <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
   {% include head.html %}
   <body>
@@ -8,26 +8,4 @@
       </section>
         {{ content }}
       {% include footer.html %}
-  </body> -->
-
-  <!DOCTYPE html>
-  <html>
-  <head>
-    <title>{{ page.title }}</title>
-  </head>
-  <body>
-    <header>
-      <nav>
-        <ul>
-          {% for link in site.nav %}
-            <li><a href="{{ link.url }}">{{ link.title }}</a></li>
-          {% endfor %}
-        </ul>
-      </nav>
-    </header>
-    <main>
-      {{ content }}
-    </main>
   </body>
-  </html>
-  
