@@ -17,8 +17,3 @@ google-analytics:
   id: "G-EBPX38YX8F"
 
 exclude: ['package.json', 'src' , 'node_modules']
-
-nav:
-  - title: cryptobot
-    url: /cryptobot/
- 
