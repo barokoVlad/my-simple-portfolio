@@ -4977,10 +4977,12 @@ sup {
 }
 
 .tech {
-    margin: 10px;
+    margin: 15px;
     border: 1px solid #000;
     border-radius: 25px;
-    padding-bottom: 10px
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px
 }
 
 .user {
