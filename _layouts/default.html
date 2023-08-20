@@ -2,6 +2,13 @@
 <html lang="en">
   {% include head.html %}
   <body>
+    <nav>
+      <ul>
+        {% for link in site.nav %}
+          <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </nav>
       {% include header.html %}
       <section id="about">
         {% include about.html %}
