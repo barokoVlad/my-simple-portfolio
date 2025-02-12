@@ -45,12 +45,12 @@
 }
 .images-right {
   @media only screen and (min-width: $cut) {
-    float: right;
-    width: 48%;
   }
   img {
     @media only screen and (min-width: $cut) {
-      float: right;
+      width: 100%;
+      height: 100%;
+      object-fit: contain;
     }
   }
 }
