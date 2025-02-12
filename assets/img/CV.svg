@@ -1,382 +1,374 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" width="612" height="792" viewBox="0 0 612 792">
 <defs>
 <clipPath id="clip_0">
-<path transform="matrix(1,0,0,-1,0,792)" d="M53 459H125V606H53Z"/>
+<path transform="matrix(1,0,0,-1,0,792)" d="M53 488H125V621H53Z"/>
 </clipPath>
 <clipPath id="clip_1">
-<path transform="matrix(1,0,0,-1,0,792)" d="M53 459H125V606H53Z"/>
+<path transform="matrix(1,0,0,-1,0,792)" d="M53 488H125V621H53Z"/>
 </clipPath>
 <clipPath id="clip_2">
-<path transform="matrix(1,0,0,-1,0,792)" d="M124 459H559V606H124Z"/>
+<path transform="matrix(1,0,0,-1,0,792)" d="M124 488H559V621H124Z"/>
 </clipPath>
 <clipPath id="clip_3">
-<path transform="matrix(1,0,0,-1,0,792)" d="M53 276H125V448H53Z"/>
+<path transform="matrix(1,0,0,-1,0,792)" d="M53 299H125V478H53Z"/>
 </clipPath>
 <clipPath id="clip_4">
-<path transform="matrix(1,0,0,-1,0,792)" d="M53 275H125V448H53Z"/>
+<path transform="matrix(1,0,0,-1,0,792)" d="M53 299H125V478H53Z"/>
 </clipPath>
 <clipPath id="clip_5">
-<path transform="matrix(1,0,0,-1,0,792)" d="M124 275H342V448H124Z"/>
+<path transform="matrix(1,0,0,-1,0,792)" d="M124 299H342V478H124Z"/>
 </clipPath>
 <clipPath id="clip_6">
-<path transform="matrix(1,0,0,-1,0,792)" d="M341 275H559V448H341Z"/>
+<path transform="matrix(1,0,0,-1,0,792)" d="M341 299H559V478H341Z"/>
 </clipPath>
 <clipPath id="clip_7">
-<path transform="matrix(1,0,0,-1,0,792)" d="M53 130H125V265H53Z"/>
+<path transform="matrix(1,0,0,-1,0,792)" d="M53 150H125V288H53Z"/>
 </clipPath>
 <clipPath id="clip_8">
-<path transform="matrix(1,0,0,-1,0,792)" d="M53 130H125V265H53Z"/>
+<path transform="matrix(1,0,0,-1,0,792)" d="M53 150H125V288H53Z"/>
 </clipPath>
 <clipPath id="clip_9">
-<path transform="matrix(1,0,0,-1,0,792)" d="M124 130H339V265H124Z"/>
+<path transform="matrix(1,0,0,-1,0,792)" d="M124 150H339V288H124Z"/>
 </clipPath>
 <clipPath id="clip_10">
-<path transform="matrix(1,0,0,-1,0,792)" d="M124 130H339V265H124Z"/>
+<path transform="matrix(1,0,0,-1,0,792)" d="M124 150H339V288H124Z"/>
 </clipPath>
 <clipPath id="clip_11">
-<path transform="matrix(1,0,0,-1,0,792)" d="M124 130H339V265H124Z"/>
+<path transform="matrix(1,0,0,-1,0,792)" d="M124 150H339V288H124Z"/>
 </clipPath>
 <clipPath id="clip_12">
-<path transform="matrix(1,0,0,-1,0,792)" d="M124 130H339V265H124Z"/>
+<path transform="matrix(1,0,0,-1,0,792)" d="M124 150H339V288H124Z"/>
 </clipPath>
 <clipPath id="clip_13">
-<path transform="matrix(1,0,0,-1,0,792)" d="M124 130H339V265H124Z"/>
+<path transform="matrix(1,0,0,-1,0,792)" d="M124 150H339V288H124Z"/>
 </clipPath>
 <clipPath id="clip_14">
-<path transform="matrix(1,0,0,-1,0,792)" d="M124 130H339V265H124Z"/>
+<path transform="matrix(1,0,0,-1,0,792)" d="M124 150H339V288H124Z"/>
 </clipPath>
 <clipPath id="clip_15">
-<path transform="matrix(1,0,0,-1,0,792)" d="M124 130H339V265H124Z"/>
+<path transform="matrix(1,0,0,-1,0,792)" d="M338 150H559V288H338Z"/>
 </clipPath>
 <clipPath id="clip_16">
-<path transform="matrix(1,0,0,-1,0,792)" d="M124 130H339V265H124Z"/>
+<path transform="matrix(1,0,0,-1,0,792)" d="M53 80H125V140H53Z"/>
 </clipPath>
 <clipPath id="clip_17">
-<path transform="matrix(1,0,0,-1,0,792)" d="M338 130H559V265H338Z"/>
+<path transform="matrix(1,0,0,-1,0,792)" d="M53 80H125V140H53Z"/>
 </clipPath>
 <clipPath id="clip_18">
-<path transform="matrix(1,0,0,-1,0,792)" d="M338 130H559V265H338Z"/>
+<path transform="matrix(1,0,0,-1,0,792)" d="M124 80H559V140H124Z"/>
 </clipPath>
 <clipPath id="clip_19">
-<path transform="matrix(1,0,0,-1,0,792)" d="M338 130H559V265H338Z"/>
+<path transform="matrix(1,0,0,-1,0,792)" d="M53 46H403V70H53Z"/>
 </clipPath>
 <clipPath id="clip_20">
-<path transform="matrix(1,0,0,-1,0,792)" d="M338 130H559V265H338Z"/>
+<path transform="matrix(1,0,0,-1,0,792)" d="M53 46H403V70H53Z"/>
 </clipPath>
 <clipPath id="clip_21">
-<path transform="matrix(1,0,0,-1,0,792)" d="M338 130H559V265H338Z"/>
+<path transform="matrix(1,0,0,-1,0,792)" d="M53 46H403V70H53Z"/>
 </clipPath>
 <clipPath id="clip_22">
-<path transform="matrix(1,0,0,-1,0,792)" d="M53 60H125V119H53Z"/>
+<path transform="matrix(1,0,0,-1,0,792)" d="M53 46H403V70H53Z"/>
 </clipPath>
 <clipPath id="clip_23">
-<path transform="matrix(1,0,0,-1,0,792)" d="M53 60H125V119H53Z"/>
-</clipPath>
-<clipPath id="clip_24">
-<path transform="matrix(1,0,0,-1,0,792)" d="M124 60H559V119H124Z"/>
-</clipPath>
-<clipPath id="clip_25">
-<path transform="matrix(1,0,0,-1,0,792)" d="M53 26H403V50H53Z"/>
-</clipPath>
-<clipPath id="clip_26">
-<path transform="matrix(1,0,0,-1,0,792)" d="M402 26H559V50H402Z"/>
+<path transform="matrix(1,0,0,-1,0,792)" d="M402 46H559V70H402Z"/>
 </clipPath>
 </defs>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="100" font-family="Mangal" font-weight="bold"><tspan y="-368" x="849.7914 921.13137 957.80136 1017.6113 1071.6113 1125.6113 1185.4214 1235.4214 1306.7615 1332.5415 1392.3516 1452.1616 1506.1616 1560.1616 1585.9417 1645.7517 1699.7517">Brovko Vladyslav </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="-368" x="1749.792"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="58" font-family="BookmanOldStyle"><tspan y="-256" x="1028.147 1074.8021 1105.1593 1135.5165 1182.1716 1218.3289 1248.686 1267.3273 1309.3425 1347.8777 1379.3949 1396.8761 1435.4113 1465.7684 1496.1256 1521.7848">DevOps Engineer </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="58" font-family="BookmanOldStyle"><tspan y="-256" x="1540.302"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="-193" x="1274.896"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="-137" x="225"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle"><tspan y="-137" x="378.5492 404.3876 426.068 438.5504 460.2308 482.7512 501.0716 525.23 564.3824 577.7048">Telegram: </tspan></text>
-<text fill="#f7b615" xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle"><tspan y="-137" x="591.033 625.19168 646.8762 659.36288 683.52548 709.36807 730.21267 756.05526 774.3798">@vlad_brk</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle"><tspan y="-137" x="800.2004"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle"><tspan y="-137" x="813.5264"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle"><tspan y="-137" x="937.0829"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle"><tspan y="-137" x="1012.736">E</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle"><tspan y="-137" x="1042.745">-</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle"><tspan y="-137" x="1059.408 1098.573 1122.744 1135.239 1147.734 1161.069">mail: </tspan></text>
-<text fill="#f7b615" xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle"><tspan y="-137" x="1174.377 1213.542 1237.713 1250.208 1262.703 1288.554 1306.887 1330.2179 1351.8689 1377.7199 1401.0508 1435.2178 1457.7088 1496.8738 1521.0448 1533.5398 1546.0348 1559.3698 1581.0208 1604.3517">mailbrovko@gmail.com</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle"><tspan y="-137" x="1643.514"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle"><tspan y="-137" x="1656.84"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle"><tspan y="-137" x="1771.69 1797.5283 1820.8467 1839.1671 1855.0095 1868.3319 1891.6503 1904.1327 1916.6151 1939.9335 1953.2559">Portfolio: </tspan></text>
-<text fill="#f7b615" xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle"><tspan y="-137" x="1966.656 1992.4944 2010.8148 2034.1332 2055.8135 2081.6519 2104.9703 2118.2926 2139.973 2161.6534 2174.9757 2203.334">brovko.cv.ua</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle"><tspan y="-137" x="2227.5"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="-137" x="2240.826"> </tspan></text>
-<path transform="matrix(1,0,0,-1,0,792)" d="M141.84 633.6H192V632.88H141.84Z" fill="#f7b615"/>
-<path transform="matrix(1,0,0,-1,0,792)" d="M281.76 633.6H394.56V632.88H281.76Z" fill="#f7b615"/>
-<path transform="matrix(1,0,0,-1,0,792)" d="M472.08 633.6H534.72V632.88H472.08Z" fill="#f7b615"/>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="8" font-family="BookmanOldStyle"><tspan y="-80" x="277.5004"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="8" font-family="BookmanOldStyle"><tspan y="-80" x="280.1656"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="8" font-family="BookmanOldStyle"><tspan y="-80" x="372.4996"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="8" font-family="BookmanOldStyle"><tspan y="-80" x="375.1648"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="8" font-family="BookmanOldStyle"><tspan y="-80" x="519.9992"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="-80" x="522.6644"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24238812 0 -0 .23763542 0 190.08002)" font-size="99.014759" font-family="FranklinGothic"><tspan y="-405.21784" x="890.2736 952.39547 987.20907 1041.5484 1087.5309 1142.2068 1196.546 1221.2998 1276.7975 1302.9967 1358.4944 1413.8041 1459.539 1506.4818 1532.681 1588.1788 1634.1613">Brovko Vladyslav </tspan></text>
+<text xml:space="preserve" transform="matrix(.24238812 0 -0 .23763542 0 190.08002)" font-size="99.014759" font-family="FranklinGothic"><tspan y="-405.21784" x="890.2736 952.39547 987.20907 1041.5484 1087.5309 1142.2068 1196.546 1221.2998 1276.7975 1302.9967 1358.4944 1413.8041 1459.539 1506.4818 1532.681 1588.1788 1634.1613">Brovko Vladyslav </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="FranklinGothic"><tspan y="-400" x="1675.451"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="58" font-family="TimesNewRomanPSMT"><tspan y="-316" x="1066.742 1108.8673 1134.7527 1163.9441 1206.0695 1235.2609 1257.9563 1272.5317 1308.1611 1337.3526 1366.544 1382.7434 1411.9348 1437.8202 1463.7056 1483.153">DevOps Engineer </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="58" font-family="TimesNewRomanPSMT"><tspan y="-316" x="1497.634"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="-253" x="1274.896"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="-198" x="225"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle"><tspan y="-198" x="389.8915 415.72993 437.4103 449.89274 471.57313 494.0935 512.4139 536.57229 575.7247 589.04708">Telegram: </tspan></text>
+<text fill="#f7b615" xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="TimesNewRomanPSMT"><tspan y="-198" x="602.3752 640.7464 661.5616 673.1368 691.642 712.4572 733.2724 754.0876 767.9728">@vlad_brk</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="TimesNewRomanPSMT"><tspan y="-198" x="788.858"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="TimesNewRomanPSMT"><tspan y="-198" x="799.2747"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="TimesNewRomanPSMT"><tspan y="-198" x="937.0829"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="TimesNewRomanPSMT"><tspan y="-198" x="1056.681">E</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="TimesNewRomanPSMT"><tspan y="-198" x="1082.133">-</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="TimesNewRomanPSMT"><tspan y="-198" x="1096.008 1128.4194 1146.9288 1158.5082 1170.0875 1181.6669">mail: </tspan></text>
+<text fill="#f7b615" xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="TimesNewRomanPSMT"><tspan y="-198" x="1192.057 1224.4684 1242.9778 1254.5571 1266.1365 1286.9558 1300.8452 1321.6646 1342.4839 1363.3032 1384.1226 1422.4979 1443.3173 1475.7286 1494.238 1505.8174 1517.3967 1527.8 1546.3095 1567.1288">mailbrovko@gmail.com</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="TimesNewRomanPSMT"><tspan y="-198" x="1599.569"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="TimesNewRomanPSMT"><tspan y="-198" x="1609.985"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="TimesNewRomanPSMT"><tspan y="-198" x="1842.531 1865.7024 1886.5219 1900.4113 1911.9906 1925.88 1946.6995 1958.2788 1969.8582 1990.6776 2002.257">Portfolio: </tspan></text>
+<text fill="#f7b615" xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="TimesNewRomanPSMT"><tspan y="-198" x="2012.677 2033.509 2047.369 2068.201 2089.033 2109.865 2130.697 2141.113 2159.593 2177.737 2188.153 2208.985">brovko.cv.ua</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="TimesNewRomanPSMT"><tspan y="-198" x="2227.5"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="-198" x="2237.917"> </tspan></text>
+<path transform="matrix(1,0,0,-1,0,792)" d="M144.48 648.24H189.36V647.76H144.48Z" fill="#f7b615"/>
+<path transform="matrix(1,0,0,-1,0,792)" d="M286.08 648.24H384V647.76H286.08Z" fill="#f7b615"/>
+<path transform="matrix(1,0,0,-1,0,792)" d="M483.12 648.24H534.72V647.76H483.12Z" fill="#f7b615"/>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="8" font-family="BookmanOldStyle"><tspan y="-140" x="277.5004"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="8" font-family="BookmanOldStyle"><tspan y="-140" x="280.1656"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="8" font-family="BookmanOldStyle"><tspan y="-140" x="372.4996"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="8" font-family="BookmanOldStyle"><tspan y="-140" x="375.1648"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="8" font-family="BookmanOldStyle"><tspan y="-140" x="519.9992"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="-140" x="522.6644"> </tspan></text>
 <g clip-path="url(#clip_0)">
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="50" font-family="Mangal" font-weight="bold"><tspan y="47" x="224.9166 266.3216 296.2266 309.11659 339.02159 366.02159 381.52659 394.41658 421.41658 451.32157">Objective </tspan></text>
+<text xml:space="preserve" transform="matrix(.24238812 0 -0 .23763542 0 190.08002)" font-size="49.507379" font-family="FranklinGothic"><tspan y="-31.041119" x="222.70059 255.55368 283.2085 296.30818 323.26988 347.31065 364.27183 377.3715 400.3726 427.3343">Objective </tspan></text>
+<text xml:space="preserve" transform="matrix(.24238812 0 -0 .23763542 0 190.08002)" font-size="49.507379" font-family="FranklinGothic"><tspan y="-31.041119" x="222.70059 255.55368 283.2085 296.30818 323.26988 347.31065 364.27183 377.3715 400.3726 427.3343">Objective </tspan></text>
 </g>
 <g clip-path="url(#clip_1)">
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="47" x="476.3326"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="FranklinGothic"><tspan y="-30" x="444.0572"> </tspan></text>
 </g>
 <g clip-path="url(#clip_2)">
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle"><tspan y="24" x="549.0001 563.1583 576.4765 603.9907 628.14498 649.82119 671.4974 684.81558 710.6498 723.96798 749.8022 763.12039 785.6366 807.3128 831.46707 849.78329 871.4595 884.77767 908.09188 921.41006 934.7282 956.4044 979.7186 1005.55288 1027.229 1045.5452 1058.0233 1079.6995 1107.2136 1128.8899 1150.5662 1163.8844 1188.0386 1209.7149 1223.0331 1247.1873 1260.5055 1293.8157 1315.492 1337.1682 1370.4784 1396.3126 1417.9888 1431.307 1461.2992 1488.8134 1511.3296 1523.8078 1551.3219 1572.998 1594.6743">I have 2,5 years of experience as a DevOps Engineer</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle"><tspan y="24" x="1613.128"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle"><tspan y="75" x="549.0001"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle"><tspan y="125" x="549.0001 574.8385 602.3569 624.0373 637.3597 649.84207 674.0004 695.68087 711.52328 724.84567 748.16409 761.48648 774.80886 813.96127 836.4816 849.804 872.3244 895.6428 919.8012 932.28359 953.964 967.2864 991.44479 1009.76516 1031.4456">The last of my goals are:</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle"><tspan y="125" x="1044.789"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle"><tspan y="176" x="549.0001">-</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle"><tspan y="176" x="565.6627"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle"><tspan y="176" x="577.3123 598.9801 622.3279 649.8337 663.1435 675.6133 698.1211 726.4669 744.7747 766.4425 792.2683 803.89816 843.07998 866.42776 893.93356 906.4033 922.2331 945.5809 963.8887 976.35848 1003.86428 1026.3721 1038.002 1061.3497 1074.6596 1086.2894 1102.1193 1134.623 1157.9708 1169.6007 1191.2686 1212.9364 1238.7622 1262.95 1281.2998 1305.4876 1321.3174 1342.9852 1354.6151 1376.283 1403.7888 1425.4567 1437.9265 1456.2764 1479.6242 1507.13 1546.3118 1567.9796 1595.4855 1611.3153 1632.9832 1646.293 1657.9229 1682.1106 1694.5805 1716.2483 1739.5961 1751.226 1777.0518 1798.7196 1820.3875 1842.0553 1854.5252 1877.8729 1903.6987 1925.3666 1951.1924 1962.8223 1984.4901 2012.8359 2034.5038 2050.3336 2073.6815 2112.8634 2124.4932 2148.681 2161.1507 2182.8184 2201.1263 2216.956 2238.6239 2250.2537 2263.5635 2286.9114 2305.2193">configured monitoring of two separate environments, also developed custom alerts for </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle"><tspan y="227" x="549.0001 561.4909 589.0177 604.82656 626.5153 644.8441 672.3709 696.5377 709.0285 722.3593 761.5201 774.01089 795.69967 814.02847 837.3553 859.04409 880.73287 899.06167 920.7504 933.2412 954.93 976.6188 998.30758 1011.63839 1024.1292 1057.452 1075.7809 1099.9478 1113.2786 1137.4454 1164.9723 1189.1392 1202.47 1228.3168 1246.6456 1269.9724 1309.1333 1330.8222 1346.631 1374.1578 1395.8467 1424.1715 1445.8604 1459.1912 1484.198 1507.5248 1533.3716 1545.8624">internal microservices (Grafana,Prometheus,Loki)</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle"><tspan y="227" x="1558.115"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle"><tspan y="278" x="549.0001">-</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle"><tspan y="278" x="565.6627"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle"><tspan y="278" x="578.9886 600.6564 624.00418 651.50997 664.81979 677.28958 699.79739 728.1432 746.451 768.1188 793.9446 807.2544 835.6002 853.908 876.41586 899.7636 930.5874 956.4132 969.723 983.03286 1006.3806 1024.6885 1037.9983 1053.8281 1086.3319 1109.6797 1122.9895 1144.6574 1166.3252 1192.151 1216.3388 1234.6886 1258.8764 1274.7062 1296.374 1322.1998 1335.5097 1357.1775 1384.6834 1406.3512 1418.821 1437.1709 1460.5187 1488.0245 1527.2063 1548.8742 1576.38 1592.2098 1613.8777 1627.1875">configured ArgoCd for two separated environments, </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle"><tspan y="278" x="1640.614"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle"><tspan y="328" x="549.0001 573.17117 585.66616 607.31716 630.64816 648.4351 670.0861 688.4191 710.0701 734.24118 750.05416 771.70516 789.4921 813.66317 826.15817 847.80917 866.14218 881.95516 894.45016 921.93917 944.4302 962.21719 1001.3822 1023.0332 1044.6842 1072.1732 1096.3442 1123.8333 1136.3283 1157.9793 1197.1443 1218.7953 1236.5823 1249.0773 1270.7283 1283.2233 1307.3943 1320.7293 1338.5162 1366.0053 1378.5003 1402.6713 1424.3223 1450.1732 1462.6682 1480.4552 1504.6262 1532.1152 1557.9662 1575.7532 1601.6041 1614.0991 1627.4341 1640.769 1662.42 1680.753 1702.404 1729.8931 1745.706 1763.493 1785.144 1807.635 1835.124 1856.775 1869.27 1896.759 1919.25 1937.037 1960.368 1986.219 2002.032 2014.527 2037.858 2065.347 2086.998 2104.785 2117.2799 2143.1309 2167.3018 2188.953 2210.604 2236.455 2254.242 2277.573 2305.062">also create alerting mechanisms (via. Slack) and different syncing options (based on </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle"><tspan y="379" x="549.0001 570.6679 598.1737 619.8415 632.3113 650.6191 673.96688 701.47268 740.6545 762.32229 789.82809 805.65786">environment </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle"><tspan y="379" x="818.9993 834.8291 857.3369">typ</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle"><tspan y="379" x="883.1675">e</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle"><tspan y="379" x="904.835">)</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle"><tspan y="379" x="917.3268"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle"><tspan y="430" x="549.0001">-</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle"><tspan y="430" x="565.6627"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle"><tspan y="430" x="581.424 603.0918 621.3996 643.0674 667.2552 683.08499 704.75277 730.57858 746.3244 767.9922 796.338 818.0058 833.8356 857.18338 896.3652 912.111 937.9368 966.28268 988.79049 1001.26028 1028.7661 1044.512 1057.8218 1081.1696 1099.5194 1115.2653 1143.6111 1161.9609 1184.4688 1207.8165 1238.6404 1264.4662 1280.212 1296.0419 1319.3897 1335.1355 1363.4813 1385.1492 1406.817 1422.5629 1455.9067 1477.5746 1490.0444 1529.2263 1542.5361 1555.006 1567.4758 1589.1437 1610.8115 1626.5574 1659.0612 1671.531 1687.3609 1714.8667 1730.6126 1752.2804 1778.1062 1799.774 1821.4419 1833.9118 1847.2216 1859.6914 1881.3593 1897.1051 1924.611 1946.2788 1967.9467 1993.7725 2015.4403 2031.1862 2055.374 2082.88 2108.7059 2124.4517 2148.6395 2174.4654 2186.935 2199.4049 2211.8746 2227.7044 2250.2122 2265.958 2281.7879 2305.1358">created custom pugin for ArgoCd to use Helmfiles with specific needs and ability to </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle"><tspan y="481" x="549.0001 574.8385 596.5189 622.3573 634.83969 658.1581 680.67849 694.00088 722.35928 744.0397 756.52206 784.0404 806.5608 819.8832 842.40359 865.722 889.0404 911.5608 924.04318 945.7236 959.04598 991.5204 1014.8388 1033.1592 1058.9976 1071.48 1094.7984 1118.9568 1144.7952 1158.1176 1170.6 1196.4384 1218.1188 1245.6372 1261.4796 1273.962 1289.8045">deploy using google workload identity</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle"><tspan y="481" x="1312.306"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle"><tspan y="531" x="549.0001">-</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle"><tspan y="531" x="565.6627"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle"><tspan y="531" x="584.9955 606.66329 630.01107 657.51687 670.82669 683.29647 705.80429 734.1501 752.4579 774.1257 799.9515 819.2673 840.93508 871.75888 884.22866 912.57449 934.24227 950.072 971.7398 990.0476 1009.3634 1031.0313 1043.5011 1067.6889 1087.0046 1114.5105 1136.1784 1148.6482 1187.8301 1201.1399 1213.6098 1226.0796 1247.7474 1267.0632 1282.8931 1306.2409 1325.5567 1349.7444 1378.0902 1393.92 1417.2678 1456.4497 1480.6375 1496.4673 1508.9371 1530.605 1554.7927 1567.2626 1579.7324 1602.2402 1621.556 1647.3818 1669.0497 1694.8755 1707.3453 1730.6931 1753.2009 1772.5167 1798.3425 1820.0104 1841.6782 1863.3461 1875.8159 1899.1637 1924.9895 1964.1714 1985.8392 2013.3451 2029.1749 2048.4908 2070.1585 2097.6644 2119.332 2131.8018 2150.1097 2173.4576 2200.9635 2240.1453 2261.813 2289.3189 2305.1488">configured vCluster via helmfile to automatically deploy development environment </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle"><tspan y="582" x="549.0001 581.49136 593.99057 609.80776 637.3009 650.64016 674.8153 687.3145 699.8137 713.15298 740.6461 762.30136 783.95657 809.8117 831.4669 857.3221 870.6613 909.8305 922.3297 943.9849 962.3221 985.6573 1007.3125 1028.9677 1047.3048 1068.96 1081.4591 1103.1143 1124.7694">with all needed microservices</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle"><tspan y="582" x="1146.453"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle"><tspan y="582" x="1159.779"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="TimesNewRomanPSMT"><tspan y="-37" x="549.0001 562.8769 573.3097 594.1585 612.65536 633.50418 652.001 662.4338 683.2826 693.7154 714.5642 724.997 745.8458 764.34268 782.8395 796.71627 812.94509 823.37789 844.2267 858.10348 868.53628 887.0331 907.8819 928.7307 947.22756 961.1043 972.6711 991.1679 1012.0167 1030.5136 1049.0104 1059.4431 1077.94 1094.1687 1104.6015 1123.0983 1133.531 1163.6199 1182.1167 1202.9655 1233.0543 1253.9031 1270.1318 1280.5646 1306.0335 1326.8822 1347.731 1359.2977 1380.1465 1398.6433 1417.1401">I have 2,5 years of experience as a DevOps Engineer</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="TimesNewRomanPSMT"><tspan y="-37" x="1430.551"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="TimesNewRomanPSMT"><tspan y="13" x="549.0001"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="TimesNewRomanPSMT"><tspan y="63" x="549.0001 574.45217 595.2841 613.7641 624.18008 635.77206 654.252 670.464 682.05599 692.4719 713.3039 727.1639 737.57986 770.00387 790.8358 801.2518 822.08377 842.9157 861.3957 872.9877 889.19967 899.6156 918.0956 931.95559 950.43557">The last of my goals are:</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="TimesNewRomanPSMT"><tspan y="63" x="962.0657"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="TimesNewRomanPSMT"><tspan y="113" x="549.0001">-</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="TimesNewRomanPSMT"><tspan y="113" x="562.8754"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="TimesNewRomanPSMT"><tspan y="113" x="586.3118 604.80447 625.64907 646.49368 660.3663 671.9289 692.7735 713.6181 727.4907 745.98336 766.82797 790.27658 822.6712 843.5158 864.3604 875.92306 887.48568 908.33029 922.2029 933.7655 954.6101 975.4547 998.9033 1019.7479 1033.6205 1057.0691 1068.6317 1098.7163 1119.5609 1143.0095 1159.2341 1177.7267 1198.5713 1217.0639 1230.9364 1249.429 1260.9916 1279.4841 1302.9328 1321.4253 1342.2699 1363.1145 1374.6771 1388.5497 1409.3943 1430.2389 1462.6336 1481.1261 1501.9707 1513.5333 1529.7579 1540.1865 1563.6351 1582.1277 1593.6903 1609.9149 1630.7595 1654.2081 1675.0527 1693.5453 1714.3899 1732.8825 1744.4451 1765.2897 1786.1343 1804.6268 1825.4714 1848.92 1867.4126 1888.2572 1904.4818 1916.0444 1936.889 1969.2837 1992.7323 2011.2249 2022.7875 2041.28 2055.1527 2066.715 2082.9398 2106.3883 2120.2608 2141.1053 2154.9779 2178.4263 2189.9888 2210.8333 2222.3958 2240.8885 2254.761 2275.6055 2294.0982 2305.6607">configured monitoring of two separate environments, also developed custom alerts for internal </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="TimesNewRomanPSMT"><tspan y="162" x="549.0001 581.4115 592.9909 611.5003 625.3897 646.2091 662.4085 680.9179 694.8073 715.6267 727.2061 745.7155 764.2249 780.4243 790.82778 804.71719 834.81857 848.70797 867.21737 881.10678 899.61618 920.43557 938.94497 949.3484 972.5198 986.4092 1007.2286 1039.64 1058.1494 1069.7288 1090.5481 1109.0575 1129.8768 1146.0762 1156.4795 1181.919 1202.7383 1223.5576 1235.137">microservices (Grafana,Prometheus,Loki)</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="TimesNewRomanPSMT"><tspan y="162" x="1248.972"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="TimesNewRomanPSMT"><tspan y="212" x="549.0001">-</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="TimesNewRomanPSMT"><tspan y="212" x="562.8754"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="TimesNewRomanPSMT"><tspan y="212" x="573.2921 591.7847 612.62936 633.47396 647.34658 658.9092 679.7538 700.5984 714.471 732.9636 753.8082 761.9268 792.0114 805.12808 825.97268 846.81729 874.59188 895.43649 905.86508 919.7377 940.5823 954.4549 964.8835 976.4461 1006.5307 1027.3753 1037.8038 1054.0285 1072.521 1093.3656 1111.8582 1125.7307 1144.2233 1155.7859 1174.2785 1195.123 1205.5516 1224.0442 1244.8888 1265.7334 1277.296 1291.1686 1312.0132 1332.8578 1365.2525 1383.745 1404.5896 1416.1522 1432.3768 1442.8054">configured ArgoCd for two separated environments, </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="TimesNewRomanPSMT"><tspan y="212" x="1453.093"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="TimesNewRomanPSMT"><tspan y="262" x="549.0001 567.49276 579.05538 595.27999 616.1246 626.55319 645.0458 658.9184 677.411 695.9036 707.46627 725.95889 736.38748 754.88009 766.4427 784.9353 798.8079 810.37057 821.93319 842.7778 863.6224 874.05099 906.4456 924.93826 943.43087 964.27548 982.76809 1003.6127 1015.1753 1031.3999 1063.7946 1080.0192 1090.4478 1104.3203 1125.1649 1136.7276 1155.2201 1165.6487 1176.0773 1199.2319 1210.7946 1229.2871 1247.7797 1268.6243 1282.4968 1292.9254 1311.418 1332.2626 1353.1072 1363.5358 1384.3804 1395.943 1409.0596 1422.9321 1441.4247 1455.2973 1473.7898 1494.6344 1506.197 1516.6256 1532.8502 1553.6948 1574.5394 1593.032 1604.5946 1625.4392 1646.2838 1656.7124 1677.557 1698.4016 1709.9642 1721.5269 1742.3715 1763.2161 1779.4407 1789.8693 1803.7418 1824.5864 1843.079 1859.3036 1877.7962 1898.6408 1909.0693 1929.914 1950.7586 1961.1871 1979.6797 2000.5243 2021.3689 2032.9315 2046.8041 2067.6488 2088.4932 2120.8878 2139.3804 2160.2249 2171.7874">also create alerting mechanisms (via. Slack) and different syncing options (based on environment </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="TimesNewRomanPSMT"><tspan y="262" x="2181.996 2193.5714 2214.3865">typ</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="TimesNewRomanPSMT"><tspan y="262" x="2235.239">e</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="TimesNewRomanPSMT"><tspan y="262" x="2253.732">)</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="TimesNewRomanPSMT"><tspan y="262" x="2267.608"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="TimesNewRomanPSMT"><tspan y="311" x="549.0001">-</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="TimesNewRomanPSMT"><tspan y="311" x="562.8754"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="TimesNewRomanPSMT"><tspan y="311" x="572.2961 590.7887 604.6613 623.15396 641.64657 653.20919 671.7018 692.5464 701.967 720.4596 741.3042 757.5288 769.09146 789.93606 822.3307 831.7513 852.5959 873.4405 894.2851 905.8477 926.6923 936.1129 949.98556 970.83016 984.70278 992.0234 1022.108 1035.2246 1056.0692 1076.9138 1104.6885 1125.5331 1134.9537 1146.5164 1167.361 1176.7816 1197.6262 1213.8508 1232.3434 1241.764 1271.8486 1290.3412 1301.9038 1334.2985 1348.171 1359.7337 1371.2963 1389.7888 1406.0134 1415.4341 1445.5187 1457.0813 1468.6439 1489.4885 1498.9092 1515.1338 1535.9784 1554.471 1572.9635 1584.5261 1598.3987 1609.9613 1628.4539 1637.8745 1658.7191 1677.2117 1695.7042 1716.5488 1732.7734 1742.1941 1760.6867 1781.5313 1802.3759 1811.7965 1830.2891 1851.1337 1862.6963 1874.2589 1885.8215 1897.3842 1918.2288 1927.6494 1939.212 1960.0567 1969.4773 1990.3219 2008.8145 2029.659 2041.2217 2062.0662 2082.9107 2092.331 2113.1756 2129.4002 2140.9627 2161.8072 2182.6517 2192.072 2212.9166 2233.761 2254.6055 2275.45 2287.0125 2305.5052">created custom pugin for ArgoCd to use Helmfiles with specific needs and ability to deploy using google </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="TimesNewRomanPSMT"><tspan y="361" x="549.0001 579.0889 599.9377 613.81448 634.6632 646.23 667.07876 685.5755 706.42428 716.85708 728.4238 749.2726 767.76937 788.6181 800.1849 811.75167 823.3184">workload identity</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="TimesNewRomanPSMT"><tspan y="361" x="844.0847"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="TimesNewRomanPSMT"><tspan y="411" x="549.0001">-</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="TimesNewRomanPSMT"><tspan y="411" x="562.8754"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="TimesNewRomanPSMT"><tspan y="411" x="579.4657 597.9583 618.8029 639.6475 653.52017 665.08279 685.92739 706.772 720.6446 739.1372 759.9818 776.5844 797.429 825.2036 836.76626 857.61087 873.83547 885.3981 903.8907 917.7633 934.3659 955.2105 966.77316 985.26577 1001.86837 1022.71298 1041.2056 1052.7682 1085.1629 1099.0354 1110.598 1122.1607 1140.6532 1157.2559 1168.8185 1189.6631 1206.2658 1224.7583 1245.6029 1257.1655 1278.0101 1310.4048 1328.8973 1340.46 1352.0226 1370.5151 1389.0077 1400.5703 1412.1329 1432.9776 1449.5802 1470.4248 1488.9174 1509.762 1521.3246 1542.1692 1563.0138 1579.6165 1600.461 1618.9536 1639.7982 1658.2908 1669.8534 1690.698 1711.5426 1743.9373 1762.4298 1783.2744 1794.837 1811.4397 1829.9323 1850.7769 1871.6215 1883.1841 1897.0567 1917.9013 1938.7459 1971.1405 1989.633 2010.4777 2022.0403 2038.643 2068.7276 2080.29 2091.8526 2112.697 2129.2996 2147.7923 2159.3548 2170.9173 2187.5198 2208.3643 2226.857 2245.3497 2266.194 2284.6868 2305.5313">configured vCluster via helmfile to automatically deploy development environment with all needed </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="TimesNewRomanPSMT"><tspan y="460" x="549.0001 581.4115 592.9909 611.5003 625.3897 646.2091 662.4085 680.9179 694.8073 715.6267 727.2061 745.7155 764.2249">microservices</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="TimesNewRomanPSMT"><tspan y="460" x="780.3843"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="TimesNewRomanPSMT"><tspan y="460" x="790.801"> </tspan></text>
 </g>
-<path transform="matrix(1,0,0,-1,0,792)" d="M53.28 617.04H124.56V615.6H53.28Z"/>
-<path transform="matrix(1,0,0,-1,0,792)" d="M124.56 617.04H126V615.6H124.56Z"/>
-<path transform="matrix(1,0,0,-1,0,792)" d="M126 617.04H558.72V615.6H126Z"/>
+<path transform="matrix(1,0,0,-1,0,792)" d="M53.28 631.68H124.56V630.24H53.28Z"/>
+<path transform="matrix(1,0,0,-1,0,792)" d="M124.56 631.68H126V630.24H124.56Z"/>
+<path transform="matrix(1,0,0,-1,0,792)" d="M126 631.68H558.72V630.24H126Z"/>
 <g clip-path="url(#clip_3)">
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="50" font-family="Mangal" font-weight="bold"><tspan y="704" x="224.9166 260.58659 287.58659 317.49159 347.39659 365.73158 378.62156 408.52656 438.43156 465.43156">Experience</tspan></text>
+<text xml:space="preserve" transform="matrix(.24238812 0 -0 .23763542 0 190.08002)" font-size="49.507379" font-family="FranklinGothic"><tspan y="569.8794" x="222.70059 250.25641 273.109 300.76383 327.72554 345.13233 358.232 385.1937 412.997 437.03779">Experience</tspan></text>
+<text xml:space="preserve" transform="matrix(.24238812 0 -0 .23763542 0 190.08002)" font-size="49.507379" font-family="FranklinGothic"><tspan y="569.8794" x="222.70059 250.25641 273.109 300.76383 327.72554 345.13233 358.232 385.1937 412.997 437.03779">Experience</tspan></text>
 </g>
 <g clip-path="url(#clip_4)">
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="50" font-family="Mangal" font-weight="bold"><tspan y="704" x="495.3511"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24238812 0 -0 .23763542 0 190.08002)" font-size="49.507379" font-family="FranklinGothic"><tspan y="569.8794" x="463.97648"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24238812 0 -0 .23763542 0 190.08002)" font-size="49.507379" font-family="FranklinGothic"><tspan y="569.8794" x="463.97648"> </tspan></text>
 </g>
 <g clip-path="url(#clip_5)">
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle" font-weight="bold"><tspan y="683" x="519.0002 551.4914">De</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle" font-weight="bold"><tspan y="683" x="575.6613 600.66397 633.98257 660.66519 682.34976 696.5163 726.5169 754.8375 779.0001 794.0067 822.32736 846.4899 870.6525 889.81716 903.9837 928.1463 947.3109 961.4775 991.4781 1010.6427 1036.4854 1064.0079 1088.1705 1112.3331 1126.4998 1141.5064 1167.349">vOps Engineer at Brokee.io:</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle" font-weight="bold"><tspan y="683" x="1181.516"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle" font-style="italic"><tspan y="733" x="519.0002 542.3354 568.1906 594.04586 619.90109 645.7563 662.41348">January</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle" font-style="italic"><tspan y="733" x="687.3556"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle" font-style="italic"><tspan y="733" x="699.8474 725.6858 751.5242 777.36257 803.2009">2023 </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle" font-style="italic"><tspan y="733" x="815.6921">&#x2013;</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle" font-style="italic"><tspan y="733" x="836.5255"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle" font-style="italic"><tspan y="733" x="849.0173 874.0199 890.6645 913.1891 935.7137 958.2383 984.0809 998.24746">Present </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle" font-style="italic"><tspan y="733" x="1010.679 1037.3533">da</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle" font-style="italic"><tspan y="733" x="1063.19">y</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle"><tspan y="733" x="1088.194"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle" font-weight="bold" font-style="italic"><tspan y="784" x="519.0002 533.1584">  </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle" font-weight="bold" font-style="italic"><tspan y="784" x="547.3206"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle" font-weight="bold" font-style="italic"><tspan y="784" x="561.4807 575.6389">  </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle" font-weight="bold" font-style="italic"><tspan y="784" x="589.801 603.9592 618.11746 632.27566 646.43386 660.59207">      </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle" font-weight="bold" font-style="italic"><tspan y="784" x="674.762 705.5858 728.9336 751.4414 778.9472 803.933 832.27877 854.78659 870.61636 895.6021 911.4319 927.26168 943.09146 961.39926 977.229 1000.5768">Responsibilities</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle" font-weight="bold" font-style="italic"><tspan y="784" x="1023.09">:</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle" font-weight="bold" font-style="italic"><tspan y="784" x="1037.25"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="SymbolMT"><tspan y="843" x="696">&#x2022;</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="ArialMT"><tspan y="843" x="717.3737"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="843" x="771.2921 800.2077 810.72329 826.0689 856.4105 880.2661 898.18777 908.5653 939.8269 950.20449 976.7281 992.07369 1013.3533 1037.5309 1061.9845 1090.1641 1100.5418 1124.9954 1149.173 1172.9826 1197.2522 1218.8078 1242.8933 1257.9169 1279.4265 1304.9841 1329.1618">GitOps &#x0026; ArgoCD Con&#xfb01;gura3on</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="843" x="1353.183"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="SymbolMT"><tspan y="906" x="696">&#x2022;</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="ArialMT"><tspan y="906" x="717.3737"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="906" x="771.2921 795.73196 819.8037 837.2055 852.1233 876.2871 912.9169 923.2807 946.9385 957.4403 981.5121 1003.0999 1013.60177 1037.6736 1048.0374 1076.2492 1098.849 1119.1028 1141.8866 1152.3884 1176.5523 1200.624 1237.2538 1260.0376 1283.6954">Custom Plugin Development</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="906" x="1299.114"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="SymbolMT"><tspan y="968" x="696">&#x2022;</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="ArialMT"><tspan y="968" x="717.3737"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="968" x="771.2921 810.4795 834.6709 858.77029 869.2997 884.1991 908.3905 924.39389 934.9233 959.02267 980.59207 990.93746 1022.2129 1032.5584 1062.9138 1086.7833 1104.7188 1127.5302 1143.9475 1163.9529 1185.8903 1209.9898 1220.519 1231.0484 1241.5776 1256.9371 1277.6786 1288.024 1309.0875 1331.6229 1346.9824 1371.0819">Monitoring &#x0026; Observability Setup</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="968" x="1395.01"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="SymbolMT"><tspan y="1031" x="696">&#x2022;</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="ArialMT"><tspan y="1031" x="717.3737"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="1031" x="771.2921 794.38876 818.45138 842.514 865.3346 881.3012 905.36386 927.90847 942.77108 965.5917 983.53628 993.8908 1018.3214 1028.86 1052.9226 1070.3152 1085.1777 1107.9983 1123.9649 1134.3195 1173.516 1195.4625 1219.5252 1241.4717 1262.6824 1285.5029 1322.1235 1344.9441 1368.5928">Kubernetes Cluster Management</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="1031" x="1383.977"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="SymbolMT"><tspan y="1094" x="696">&#x2022;</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="ArialMT"><tspan y="1094" x="717.3737"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="1094" x="771.2921 791.9921 816.41818 826.95217 851.05618 868.44418 883.3021 906.1181 922.0801 932.4301 958.9261 983.0301 997.9341 1022.0841 1058.7001 1080.2282 1105.7582 1129.9082">vCluster Automa3on</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="1094" x="1154.05"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="SymbolMT"><tspan y="1157" x="696">&#x2022;</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="ArialMT"><tspan y="1157" x="717.3737"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="1157" x="771.2921 782.83816 806.66616 820.65017 835.69216 857.6341 875.0221 890.3861 906.3481 930.40609 949.77206 965.13607 989.19406 1004.55807 1027.374 1037.724 1059.666 1077.606 1087.9559 1112.382 1136.532 1160.59 1183.406">Infrastructure as Code </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="1217" x="771.2921 785.1887 803.4553 826.2759 842.24246 857.289 878.9596 891.9822 916.1368 932.10336 968.72396 980.18258 990.5372 1014.23178 1038.2943 1048.8329 1072.8955 1109.5161 1120.0547">(Terraform, Pulumi)</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="1217" x="1133.93"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="SymbolMT"><tspan y="1280" x="696">&#x2022;</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="ArialMT"><tspan y="1280" x="717.3737"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="1280" x="771.2921 799.4901 821.0181 835.83016 857.77218 881.87619 903.8182 921.7582 944.57418 954.9242 994.11618 1016.05819 1040.1622 1062.1043 1083.3102 1106.1262 1142.7422 1165.5582 1189.2023 1204.5663 1214.9163 1228.8082 1249.8762 1280.6962 1299.9702 1310.3202 1341.6002">Database Management (SQL &#x0026; </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="1340" x="771.2921 800.87936 825.0386 846.1158 876.945 896.2282">NoSQL)</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="1340" x="910.1125"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="587" x="519.0002 549.089">De</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="587" x="567.5842 588.4162 620.8402 644.02426 660.2362 670.6522 698.45626 721.64028 742.4722 754.0642 777.2482 795.7282 814.2082 831.9322 842.34817 863.1801 877.0401 887.45608 915.2601 932.9841 953.81607 977.00009 995.48007 1013.96 1024.376 1035.968 1056.8">vOps Engineer at Brokee.io:</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="587" x="1070.677"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="TimesNewRomanPS" font-style="italic"><tspan y="637" x="519.0002 537.4928 558.3374 579.182 600.0266 620.8712 637.0958 655.58847 666.017 686.86166 707.70626 728.55087 749.39547">January 2023 </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="TimesNewRomanPS" font-style="italic"><tspan y="637" x="759.7026">&#x2013;</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="TimesNewRomanPS" font-style="italic"><tspan y="637" x="780.5359"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="TimesNewRomanPS" font-style="italic"><tspan y="637" x="790.9526 816.4046 831.0626 849.5426 865.7546 884.23458 905.0665 916.6585">Present </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="TimesNewRomanPS" font-style="italic"><tspan y="637" x="927.1017 947.93368">da</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="TimesNewRomanPS" font-style="italic"><tspan y="637" x="968.7683">y</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="TimesNewRomanPSMT"><tspan y="637" x="987.262"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="TimesNewRomanPS" font-weight="bold" font-style="italic"><tspan y="687" x="519.0002 529.4162">  </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="TimesNewRomanPS" font-weight="bold" font-style="italic"><tspan y="687" x="539.8336"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="TimesNewRomanPS" font-weight="bold" font-style="italic"><tspan y="687" x="550.2502 560.6662">  </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="TimesNewRomanPS" font-weight="bold" font-style="italic"><tspan y="687" x="571.0836 581.49966 591.91567 602.33169 612.7477 623.1637">      </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="TimesNewRomanPS" font-weight="bold" font-style="italic"><tspan y="687" x="633.5836 661.375 679.8844 696.0838 716.9032 737.7226 760.894 777.0934 788.6728 809.4922 821.0716 832.651 844.2304 855.8098 867.3892 885.8986">Responsibilities</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="TimesNewRomanPS" font-weight="bold" font-style="italic"><tspan y="687" x="902.1382">:</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="TimesNewRomanPS" font-weight="bold" font-style="italic"><tspan y="687" x="916.0135"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="SymbolMT"><tspan y="743" x="696">&#x2022;</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="ArialMT"><tspan y="743" x="717.3737"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="743" x="771.2921 804.39376 817.1174 829.841 862.9426 885.87826 903.7079 915.18948 950.82107 959.7266 992.82827 1007.25387 1030.1895 1053.1251 1083.6968 1116.7984 1128.28 1158.8517 1181.7874 1204.723 1219.9767 1232.7003 1255.636 1278.5717 1293.8253 1314.1849 1326.9086 1339.6322 1362.5679">GitOps &#x0026; ArgoCD Configuration</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="743" x="1385.387"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="SymbolMT"><tspan y="804" x="696">&#x2022;</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="ArialMT"><tspan y="804" x="717.3737"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="804" x="771.2921 801.8637 824.7993 842.6289 855.35256 878.28817 913.91976 925.4013 950.9129 963.63656 986.57217 1009.50778 1022.2314 1045.167 1056.6487 1089.7503 1110.1099 1133.0455 1153.4052 1166.1288 1189.0645 1212.0001 1247.6317 1267.9913 1290.927">Custom Plugin Development</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="804" x="1303.456"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="SymbolMT"><tspan y="864" x="696">&#x2022;</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="ArialMT"><tspan y="864" x="717.3737"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="864" x="771.2921 812.0435 834.94699 857.8504 870.58779 883.32516 906.2286 921.496 934.23336 957.1368 980.0402 991.4896 1027.135 1038.5845 1071.7 1094.6034 1112.4468 1132.7742 1148.0416 1170.9451 1191.2725 1214.1759 1226.9133 1239.6508 1252.3882 1265.1256 1288.029">Monitoring &#x0026; Observability </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="921" x="771.2921 796.7807 817.1173 829.86398 852.77658">Setup</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="921" x="875.6927"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="SymbolMT"><tspan y="981" x="696">&#x2022;</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="ArialMT"><tspan y="981" x="717.3737"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="981" x="771.2921 804.39376 827.32937 850.26498 870.6246 885.8782 908.8138 929.1734 941.89706 962.25668 980.0863 991.5679 1022.13949 1034.863 1057.7987 1075.6283 1088.3519 1108.7116 1123.9652 1135.4469 1176.1845 1196.5441 1219.4797 1239.8394 1262.775 1283.1347 1318.7662 1339.1259 1362.0615">Kubernetes Cluster Management</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="981" x="1374.578"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="SymbolMT"><tspan y="1041" x="696">&#x2022;</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="ArialMT"><tspan y="1041" x="717.3737"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="1041" x="771.2921 794.2093 824.76248 837.5137 860.43087 878.2881 891.0393 911.3805 926.66177 935.5949 968.6781 991.5953 1004.3465 1027.2637 1062.9229 1083.264 1096.0153 1108.7665 1131.6837">vCluster Automation</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="1041" x="1154.497"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="SymbolMT"><tspan y="1101" x="696">&#x2022;</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="ArialMT"><tspan y="1101" x="717.3737"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="1101" x="771.2921 786.55496 809.45376 824.71658 839.9794 860.3021 878.1409 890.8737 906.13656 929.03536 949.3581 962.0909 984.9897 1000.2525 1020.57528 1032.02 1052.3428 1070.1815 1081.6264 1112.2072 1135.106 1158.0048 1178.3275">Infrastructure as Code </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="1158" x="771.2921 786.55496 811.3397 831.6625 846.9253 862.1881 882.51089 897.7737 920.6725 935.9353 971.5761 983.02096 994.46578 1019.94058 1042.8394 1055.5722 1078.471 1114.1117 1126.8445">(Terraform, Pulumi)</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="1158" x="1142.278"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="SymbolMT"><tspan y="1218" x="696">&#x2022;</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="ArialMT"><tspan y="1218" x="717.3737"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="1218" x="771.2921 804.39376 824.75338 837.477 857.8366 880.7722 901.13186 918.9614 939.32107 950.8026 991.5402 1011.89987 1034.8355 1055.1951 1078.1307 1098.4904 1134.122 1154.4816 1177.4172 1190.1409">Database Management </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="1218" x="1201.427"> </tspan></text>
 </g>
 <g clip-path="url(#clip_6)">
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="686" x="1676.292"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="780" x="1424"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="SymbolMT"><tspan y="876" x="1601">&#x2022;</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="ArialMT"><tspan y="876" x="1622.374"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="876" x="1676.292 1702.811 1726.478 1738.0471 1748.4202 1787.5891 1809.5541 1833.6351 1855.6001 1876.7831 1899.576 1936.1691 1958.962 1982.629 1997.9701 2008.3432 2022.2582 2050.8013 2072.766 2090.683 2114.764 2129.783 2151.7479 2163.1788">API Management (Hasura, </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="936" x="1676.292 1705.2077 1720.2312 1742.2008 1766.2864 1790.372 1821.2196 1840.4752">GraphQL)</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="936" x="1854.366"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="SymbolMT"><tspan y="999" x="1601">&#x2022;</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="ArialMT"><tspan y="999" x="1622.374"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="999" x="1676.292 1697.3508 1707.8756 1729.8084 1749.1652 1769.9939 1780.3807 1791.9175 1815.5524 1830.4013 1853.208 1874.7728 1889.8057 1911.3245 1936.8452 1961.032">Slack Integra3on</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="999" x="1985.197"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="SymbolMT"><tspan y="1062" x="1601">&#x2022;</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="ArialMT"><tspan y="1062" x="1622.374"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="1062" x="1676.292 1701.178 1725.65 1751.824 1776.25 1786.6 1817.88 1828.23 1849.298 1872.114 1891.48 1915.584 1931.546 1942.0801 1957.4441 1978.1901 1988.54 2000.086 2036.702 2060.806 2071.3399 2094.1558 2130.772 2153.588 2177.232 2192.044 2213.5718 2239.1019 2263.2518">RBAC &#x0026; Security Implementa3on</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="1062" x="2287.299"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="SymbolMT"><tspan y="1125" x="1601">&#x2022;</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="ArialMT"><tspan y="1125" x="1622.374"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="1125" x="1676.292 1700.7318 1724.8956 1742.2975 1757.6293 1767.993 1798.3208 1822.2086 1847.7525 1884.3822 1894.884 1912.2399 1933.7817 1959.3256 1983.4894 2007.5612 2017.9249 2049.1729 2059.5367 2083.6087 2106.3927 2124.3004 2148.464 2172.536 2187.8218 2207.2017 2229.9857">Cost Op3miza3on &#x0026; Resource </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="1185" x="1676.292 1715.4794 1737.4168 1761.5162 1783.4536 1804.655 1827.4664 1864.0779 1886.8893 1910.5287">Management</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="1185" x="1925.891"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="SymbolMT"><tspan y="1248" x="1601">&#x2022;</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="ArialMT"><tspan y="1248" x="1622.374"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="1248" x="1676.292 1699.0527 1721.8596 1737.8584 1750.8672 1775.054 1791.0527 1827.6596 1849.6383 1873.733 1893.1358 1915.9426 1926.3294 1951.2522 1975.439 2004.5018 2015.0266 2037.8335 2061.9285 2084.735 2104.138 2124.9666">Performance BoOleneck </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="1308" x="1676.292 1700.373 1723.166 1741.083 1765.256 1775.767 1799.848 1825.401 1849.574">Resolu3on</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="1308" x="1873.657"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="562" x="1676.292"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="653" x="1424"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="SymbolMT"><tspan y="746" x="1601">&#x2022;</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="ArialMT"><tspan y="746" x="1622.374"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="746" x="1676.292 1709.3936 1734.9052 1750.1588 1761.6405 1802.378 1822.7377 1845.6734 1866.033 1888.9686 1909.3283 1944.9598 1965.3195 1988.2551 2000.9788 2012.4605 2027.7141 2060.8157 2081.1754 2099.005 2121.9405 2137.1939 2157.5535 2169.0352">API Management (Hasura, </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="803" x="1676.292 1709.3936 1724.6472 1745.0068 1767.9425 1790.8782 1823.9797 1851.9754">GraphQL)</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="803" x="1867.189"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="SymbolMT"><tspan y="863" x="1601">&#x2022;</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="ArialMT"><tspan y="863" x="1622.374"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="863" x="1676.292 1701.7807 1714.5272 1734.8638 1755.2003 1778.1129 1789.5715 1804.8482 1827.7608 1840.5073 1860.8439 1883.7565 1899.0331 1919.3696 1932.1162 1944.8628 1967.7754">Slack Integration</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="863" x="1990.658"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="SymbolMT"><tspan y="923" x="1601">&#x2022;</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="ArialMT"><tspan y="923" x="1622.374"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="923" x="1676.292 1706.8637 1737.4353 1770.5369 1801.1085 1812.5902 1848.2218 1859.7035 1885.2151 1905.5747 1925.9343 1948.87 1964.1237 1976.8473 1989.5709 2012.5066">RBAC &#x0026; Security </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="980" x="1676.292 1691.5548 1727.1956 1750.0944 1762.8272 1783.1499 1818.7907 1839.1134 1862.0122 1874.745 1895.0678 1907.8005 1920.5333 1943.4321">Implementation</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="980" x="1966.488"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="SymbolMT"><tspan y="1040" x="1601">&#x2022;</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="ArialMT"><tspan y="1040" x="1622.374"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="1040" x="1676.292 1706.8637 1729.7993 1747.6289 1760.3526 1771.8342 1804.9358 1827.8715 1840.5951 1853.3187 1888.9503 1901.674 1922.0336 1942.3932 1955.1168 1967.8405 1990.7761 2013.7118 2025.1935 2060.8253 2072.307 2102.8785 2123.238 2141.0677 2164.0032 2186.9388 2202.1922 2222.5518 2242.9114">Cost Optimization &#x0026; Resource </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="1097" x="1676.292 1717.0435 1737.3709 1760.2743 1780.6017 1803.5051 1823.8325 1859.4779 1879.8053 1902.7088">Management</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="1097" x="1915.552"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="SymbolMT"><tspan y="1157" x="1601">&#x2022;</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="ArialMT"><tspan y="1157" x="1622.374"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="1157" x="1676.292 1701.7807 1722.1172 1737.3938 1752.6704 1775.583 1790.8596 1826.5142 1846.8507 1869.7633 1890.0999 1910.4364 1921.895 1952.4436 1975.3562 1988.1028 2000.8494 2013.596 2033.9325 2056.8453 2077.182 2097.5186 2120.4312">Performance Bottleneck </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="1214" x="1676.292 1706.8637 1727.2233 1745.0529 1767.9885 1780.7122 1803.6478 1816.3715 1829.0951 1852.0308">Resolution</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="1214" x="1874.911"> </tspan></text>
 </g>
-<path transform="matrix(1,0,0,-1,0,792)" d="M53.28 459.36H124.56V457.92H53.28Z"/>
-<path transform="matrix(1,0,0,-1,0,792)" d="M124.56 459.36H126V457.92H124.56Z"/>
-<path transform="matrix(1,0,0,-1,0,792)" d="M126 459.36H341.76V457.92H126Z"/>
-<path transform="matrix(1,0,0,-1,0,792)" d="M341.76 459.36H343.2V457.92H341.76Z"/>
-<path transform="matrix(1,0,0,-1,0,792)" d="M343.2 459.36H558.72V457.92H343.2Z"/>
+<path transform="matrix(1,0,0,-1,0,792)" d="M53.28 488.88H124.56V487.44H53.28Z"/>
+<path transform="matrix(1,0,0,-1,0,792)" d="M124.56 488.88H126V487.44H124.56Z"/>
+<path transform="matrix(1,0,0,-1,0,792)" d="M126 488.88H341.76V487.44H126Z"/>
+<path transform="matrix(1,0,0,-1,0,792)" d="M341.76 488.88H343.2V487.44H341.76Z"/>
+<path transform="matrix(1,0,0,-1,0,792)" d="M343.2 488.88H558.72V487.44H343.2Z"/>
 <g clip-path="url(#clip_7)">
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="50" font-family="Mangal" font-weight="bold"><tspan y="1468" x="224.9166 260.58659 290.49159 317.49159 342.49159 378.16157 405.16157 418.05155 430.94154 443.8315">Key Skills</tspan></text>
+<text xml:space="preserve" transform="matrix(.24238812 0 -0 .23763542 0 190.08002)" font-size="49.507379" font-family="FranklinGothic"><tspan y="1368.7505" x="222.70059 254.07837 281.03019 303.89765 316.27449 345.5482 372.8862 385.98585 399.0855 412.18519">Key Skills</tspan></text>
+<text xml:space="preserve" transform="matrix(.24238812 0 -0 .23763542 0 190.08002)" font-size="49.507379" font-family="FranklinGothic"><tspan y="1368.7505" x="222.70059 254.07837 281.03019 303.89765 316.27449 345.5482 372.8862 385.98585 399.0855 412.18519">Key Skills</tspan></text>
 </g>
 <g clip-path="url(#clip_8)">
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="1468" x="470.8394"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="FranklinGothic"><tspan y="1356" x="440.0045"> </tspan></text>
 </g>
 <g clip-path="url(#clip_9)">
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="1447" x="593.3757 617.8155 629.3753 647.0991 671.53897 699.75076">CI/CD:</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="1344" x="593.3757 623.94729 639.20089 651.9245 682.4961 715.5977">CI/CD:</tspan></text>
 </g>
 <g clip-path="url(#clip_10)">
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="1447" x="711.965"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="1344" x="728.3468"> </tspan></text>
 </g>
 <g clip-path="url(#clip_11)">
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="1447" x="722.3267 751.2423 761.7579 777.1035 805.6511 829.73678 853.8224 864.19998 890.7236 910.1172 935.6748 959.8524 983.93807 1001.8597 1013.2953 1023.67288 1052.5885 1063.1041 1078.4497 1097.7053 1119.6749 1143.7605 1154.1382 1178.5918">GitHub Ac3ons, GitLab CI</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="1344" x="739.8051 772.90676 785.6304 798.354 831.4556 854.39126 877.32687 886.2324 919.33407 939.69369 952.4173 965.1409 988.07656 1011.01217 1028.8418 1040.3235 1051.8052 1084.9067 1097.6304 1110.354 1138.3496 1158.7092 1181.6449 1193.1266 1223.6983">GitHub Actions, GitLab CI</tspan></text>
 </g>
 <g clip-path="url(#clip_12)">
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="1447" x="1190.037">.</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="1344" x="1238.847">.</tspan></text>
 </g>
 <g clip-path="url(#clip_13)">
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="1447" x="1201.607"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="1344" x="1250.305"> </tspan></text>
 </g>
 <g clip-path="url(#clip_14)">
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="1525" x="593.3757 617.0979 639.90017 655.11239 673.0386 683.5588 707.74099 731.8312 742.2134 766.6716 790.85379 814.52999 829.8801 845.13839 869.32058 879.84078 892.10897 902.49118 931.4114 941.9316 957.28176 968.7219 979.1041 1008.02438 1018.54458 1033.8948 1062.447 1086.5372 1110.6275 1122.0678 1132.45 1161.3703 1171.8904 1187.2406 1206.5009 1228.4751 1252.5653">Version Control: Git, GitHub, GitLab.</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="1525" x="1263.867"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="1603" x="593.3757 632.56307 656.75448 680.8538 691.38327 706.28268 730.47409 746.4774 757.00686 781.1062 802.6756 814.953 825.2984 854.22787 869.2652 890.92666 904.03207 925.9695 950.06887 972.0063 983.4557 993.8011 1017.4865 1032.708 1056.8994 1093.5109 1116.0463 1131.4058 1155.5053 1178.3167 1202.4161 1220.3516 1231.801 1242.1465 1261.4159 1285.6073 1306.4407 1316.97">Monitoring: Grafana, Prometheus, Loki.</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="1603" x="1328.365"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="1681" x="593.3757 632.47109 655.2825 679.3819 689.7273 710.7907 733.6021 750.01956 770.25497 793.06637 808.24179 826.1772 838.4546 848.8 878.3734 899.9428 910.4722 934.11166 953.97909 965.42849 975.77389 1002.3113 1026.4107 1048.3482 1067.7096 1091.809 1114.6204">Web Servers: Nginx, Apache.</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="1681" x="1126.166"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="1759" x="593.3757 621.57369 643.1017 657.9137 679.8557 703.9597 725.90176 743.84176 766.6577 784.5977 796.87979 805.8038 844.9957 865.7417 886.8097 917.6297">Databases: MySQL</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="1759" x="937.2131 948.6487 957.55429 980.30587 1004.48348 1021.8991 1037.2448 1058.8003 1074.1919 1096.9895 1118.0391 1148.8866 1168.5562 1179.9917 1188.8972 1228.0708 1252.2484 1276.334 1297.6135 1321.7911 1349.9707 1374.8843">, PostgreSQL, MongoDB.</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="1419" x="593.3757 621.3943 641.7309 657.00747 674.86007 687.6066 710.5192 733.4318 744.8904 775.485 798.3976 821.3102 834.05679 849.3333 872.2459 884.9925 897.7391 909.19766 942.32229 955.06887 967.8154 979.274 990.73257 1023.8572 1036.6038 1049.3504 1082.4749 1105.3875 1128.3 1139.7587 1151.2173 1184.3418 1197.0884 1209.835 1237.8535 1258.1901 1281.1027">Version Control: Git, GitHub, GitLab.</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="1419" x="1292.289"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="1495" x="593.3757 634.1271 657.0305 679.93399 692.6713 705.4087 728.31216 743.5795 756.3169 779.22036 802.1238 814.86117 826.31057 859.42599 874.69338 895.02078 910.28817 930.61557 953.519 973.8464 985.2958 996.7452 1022.2246 1037.4921 1060.3955 1096.0409 1116.3683 1129.1057 1152.0092 1172.3366 1195.24 1213.0834 1224.5328 1235.9823 1263.9917 1286.8952 1309.7986 1322.536">Monitoring: Grafana, Prometheus, Loki.</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="1495" x="1334.206"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="1570" x="593.3757 632.96328 653.3228 676.25839 687.7399 713.2515 733.6111 748.8647 771.80026 792.1598 807.4134 825.243 837.96658 849.4481 882.54977 905.4853 918.20889 941.1444 964.07998 975.5615 984.5131 1017.61477 1040.5503 1060.9099 1081.2695 1104.2051 1124.5647">Web Servers: Nginx, Apache.</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="1570" x="1135.722"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="1646" x="593.3757 626.4773 646.8369 659.56057 679.92019 702.8558 723.2154 741.04507 761.40469 779.23428 791.9579 803.43948 844.17709 867.1127 892.62429 925.7259">Databases: MySQL</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="1646" x="953.6194 965.078 976.5366 1002.0252 1024.9378 1042.7904 1055.537 1078.4496 1093.7262 1114.0628 1139.5513 1172.6299 1200.6024 1212.061">, PostgreSQL, </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="1688" x="593.3757 634.1271 657.0305 679.93399 702.8374 725.74087 758.85629 789.4417">MongoDB.</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="1688" x="800.9236"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="1763" x="593.3757 626.4773 651.9889 667.2425 677.8501 702.62576 725.56137 748.49697 761.2206 779.0502 791.7738 803.2554 836.357 856.7166 874.54629 897.4819 912.7355 933.0951 944.57669 956.0582 989.15988 1004.41348 1024.7731 1047.7088 1070.6444 1103.746 1131.7416">API Tools: Hasura, GraphQL.</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="1763" x="1143.062"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="1839" x="593.3757 623.94729 636.6709 659.6065 682.5421 705.4777 718.20138 729.6829 762.78457 793.35617 813.7617">Cloud: GCP,</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="1839" x="825.1607"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="1839" x="834.0901 863.5209 906.79769 932.27249 943.7173 976.82809 992.0909 1012.4137 1032.7366 1045.4694 1065.7922 1077.2369 1107.8178 1120.5505 1143.4494 1166.3482">AWS Oracle Cloud</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="1839" x="1189.366">.</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="1839" x="1200.824"> </tspan></text>
 </g>
 <g clip-path="url(#clip_15)">
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="1759" x="1386.5"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="1360" x="1483.375 1498.6378 1518.9606 1549.5414 1562.2742 1572.891 1597.6758 1617.9985 1633.2614 1648.5242 1668.8469 1684.1098 1707.0086 1722.2714 1757.9121 1769.3569 1780.8018 1806.2765 1829.1753 1841.9081 1864.8069 1900.4476 1913.1804">IaC: Terraform, Pulumi.</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="1360" x="1924.834"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="1436" x="1483.375 1513.9467 1536.8823 1559.818 1572.5416 1592.9013 1605.6249 1628.5606 1648.9202 1664.1738 1676.8975 1697.2571 1717.6167 1730.3403 1743.064 1765.9996 1788.9353 1801.6589 1813.1406 1846.2422 1869.1779 1889.5375 1912.4732 1932.8328 1946.2465 1957.7282 1969.2098 2002.3114 2025.2471 2048.1827 2068.5423 2083.7957 2106.7313 2127.0909 2139.8143 2160.1739 2178.0035">Containerization: Docker, Kubernetes.</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="1436" x="2189.159"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="1511" x="1483.375 1513.9467 1536.8823 1559.818 1575.0717 1587.7953 1610.731 1633.6666 1648.9203 1669.2799 1682.0036 1694.7272 1717.6629 1740.5985 1752.0802 1792.8178 1813.1774 1836.113 1856.4727 1879.4083 1899.768 1935.3995 1955.7592 1978.6948 1991.4185 2004.1421 2013.0477 2046.1493 2069.0848 2086.9144 2099.6378 2122.5733 2135.2967 2155.6563">Configuration Management: Ansible.</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="1511" x="2166.936"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="1587" x="1483.375 1508.8637 1524.1403 1547.0529 1569.9655 1585.2421 1605.5786 1641.2332 1676.8877 1689.6343 1712.5469 1735.4595 1748.206 1759.6647 1785.1533 1808.0659 1820.8125 1843.7251 1866.6377 1889.5503 1901.0089 1912.4675 1945.5462 1968.4588">Programming: Python, Go.</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="1587" x="1979.91"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="1662" x="1483.375 1508.8637 1529.2002 1544.4768 1557.2234">Scrip</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="1662" x="1580.122 1592.8547 1605.5875 1628.4863 1651.3851 1664.1179 1675.5628 1706.1436 1726.4663 1744.305 1767.2039 1778.6487">ting: Bash, </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="1662" x="1790.199">P</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="1662" x="1815.689 1838.6062 1851.3574 1874.2747 1897.1919">ython</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="1662" x="1920.09">.</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="1662" x="1931.548"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="1738" x="1483.375 1516.4766 1541.9882 1557.2418 1568.7235 1601.8251 1622.1847 1634.9083 1655.268 1688.3695 1708.7291 1731.6648 1749.4944 1762.218 1773.6997 1801.6953 1837.3269 1850.0505 1867.8801 1885.7097 1906.0693 1921.323 1944.2587 1955.7404 1970.994 2004.0956 2039.7272 2062.6627 2083.0223 2100.8519 2118.6815 2139.041 2161.9766 2184.912 2200.1656">API Gateways: Emissary (Ambassador)</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="1738" x="2215.276">,</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="1738" x="2226.734"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="1780" x="1483.375 1496.1078 1519.0066 1541.9054 1557.1682">ingre</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="1780" x="1577.548 1595.3867">ss</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="1780" x="1613.221">-</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="1780" x="1628.484 1651.4013 1674.3185 1687.0697 1709.9869">nginx</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="1780" x="1732.885">.</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="1780" x="1744.343"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="1855" x="1483.375 1516.4766 1529.2002 1541.9238 1575.0254 1597.961 1615.7907 1628.5143 1637.4199 1670.5215 1684.9472 1707.8828 1730.8185 1761.3901 1794.4917 1805.9734 1817.4551 1850.5567 1870.9163 1883.6399 1919.2715 1934.5252 1947.2488 1959.9724 1980.332 1991.8137 2003.2954 2026.2311 2056.8028 2069.5262 2092.4617 2110.2913 2123.0147 2143.3743 2156.098">GitOps: ArgoCD, Helmfile, vCluster.</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="1855" x="2167.473"> </tspan></text>
 </g>
+<path transform="matrix(1,0,0,-1,0,792)" d="M53.28 299.28H124.56V297.84H53.28Z"/>
+<path transform="matrix(1,0,0,-1,0,792)" d="M124.56 299.28H126V297.84H124.56Z"/>
+<path transform="matrix(1,0,0,-1,0,792)" d="M126 299.28H338.16V297.84H126Z"/>
+<path transform="matrix(1,0,0,-1,0,792)" d="M338.16 299.28H339.6V297.84H338.16Z"/>
+<path transform="matrix(1,0,0,-1,0,792)" d="M339.6 299.28H341.76V297.84H339.6Z"/>
+<path transform="matrix(1,0,0,-1,0,792)" d="M341.76 299.28H343.2V297.84H341.76Z"/>
+<path transform="matrix(1,0,0,-1,0,792)" d="M343.2 299.28H558.72V297.84H343.2Z"/>
 <g clip-path="url(#clip_16)">
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="1837" x="593.3757 619.89468 643.56167 655.1306 665.5036 683.7426 707.91567 732.0887 742.5997 760.5167 772.77578 783.14877 811.6918 833.6568 851.57388 875.65487 890.6739 912.6389 924.06997 934.44296 963.35397 978.373 1000.338 1024.4191 1048.5001 1079.3432 1098.5941">API Tools: Hasura, GraphQL.</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="1837" x="1110.209"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="1915" x="593.3757 617.8155 628.3173 652.48117 676.5529 700.6247 712.8745 723.23837 752.14016 776.57998 794.5798">Cloud: GCP,</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="1915" x="806.071"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="1915" x="816.4327 841.1623 881.7159 902.7655 913.14309 943.4847 958.5083 980.4779 999.8715 1010.3871 1033.1846 1043.5621 1068.0158 1078.5314 1102.709 1126.7946">AWS Oracle Cloud</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="1915" x="1150.828">.</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="1915" x="1162.398"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24238812 0 -0 .23763542 0 190.08002)" font-size="49.507379" font-family="FranklinGothic"><tspan y="1992.8998" x="222.70059 250.25641 277.91123 305.61558 329.65635 357.4102 374.3714 387.47108 414.6308">Education</tspan></text>
+<text xml:space="preserve" transform="matrix(.24238812 0 -0 .23763542 0 190.08002)" font-size="49.507379" font-family="FranklinGothic"><tspan y="1992.8998" x="222.70059 250.25641 277.91123 305.61558 329.65635 357.4102 374.3714 387.47108 414.6308">Education</tspan></text>
 </g>
 <g clip-path="url(#clip_17)">
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="1441" x="1483.375 1494.921 1516.863 1541.2891 1553.571 1563.921 1582.183 1604.999 1620.961 1636.0032 1657.6692 1670.6873 1694.8373 1710.7993 1747.4153 1758.8693 1769.2192 1792.9092 1816.9672 1827.5012 1851.5592 1888.1752 1898.7092">IaC: Terraform, Pulumi.</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="FranklinGothic"><tspan y="1974" x="446.8404"> </tspan></text>
 </g>
 <g clip-path="url(#clip_18)">
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="1441" x="1910.355"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="TimesNewRomanPSMT"><tspan y="1975" x="549.0001 579.0889 597.5857 609.15249 620.71926 641.568 662.41677 680.9135 692.4803 702.15707 724.68588 743.1826 761.6794 782.52816 803.3769 814.94369 833.4404 851.9372 863.50399 873.93679 904.0256 924.8743 936.4411 957.28988 975.7866 989.6634 1005.89218 1017.4589 1029.0258 1049.8745 1060.3073 1081.156 1095.0328 1105.4656 1135.5543 1156.4031 1170.2799 1188.7767 1200.3435 1221.1923 1239.6891 1250.1218 1257.6146 1287.7034 1308.5521 1320.1189 1340.9677 1351.4004 1374.5592 1395.408 1406.9747 1427.8235 1439.3903 1457.8871 1476.3839 1497.2327 1518.0814 1529.6482 1548.145 1558.5778 1572.4546 1593.3034 1609.5321 1621.0989 1632.6657 1644.2324 1665.0812 1676.648 1695.1448">National Technical University of Ukraine 'Kyiv Polytechnic Institute'</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="1975" x="1702.402"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="TimesNewRomanPSMT"><tspan y="2027" x="549.0001 579.0889 599.9377 611.50448 629.6232 640.056 650.48886 680.57766 701.4264 712.99319 733.8419 744.2747 772.0535 783.6203 795.1871 813.30587 823.73867 834.17147 864.26028 885.109 898.9858 917.48257 929.0493 949.8981 968.39486">Kyiv, Kyiv City, Ukraine </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="2027" x="978.7282"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="TimesNewRomanPSMT"><tspan y="2078" x="549.0001 576.7915 602.2309 612.6343 624.2137 645.0331 655.43649 680.87588 692.45529 710.96469 729.47409 741.05349 754.9429 775.76229 796.58169 808.1611 826.6705 842.8699 853.27328 871.78268 892.60208 913.42147 923.8248 951.6162 972.4356 1004.84707 1037.2584 1058.0778 1078.8971 1090.4765 1108.9859 1127.4953 1139.0746 1150.6539 1171.4733 1192.2926">BE in Electronics and Communications</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="TimesNewRomanPSMT"><tspan y="2078" x="1208.607"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="TimesNewRomanPSMT"><tspan y="2078" x="1219.024 1244.4761 1265.3081 1286.1401 1297.732 1318.5641 1337.0441 1355.524 1369.384 1380.976 1401.808 1422.64 1433.056">Engineering  </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="TimesNewRomanPSMT"><tspan y="2078" x="1443.491"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="SymbolMT"><tspan y="2137" x="594">&#x2022;</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="ArialMT"><tspan y="2137" x="615.0818"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="TimesNewRomanPSMT"><tspan y="2137" x="669.0002 692.1716 710.68099 731.50039 741.90377 762.72317 783.54257 804.36196 825.18136">Sep 2021 </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="TimesNewRomanPSMT"><tspan y="2137" x="835.6669">-</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="TimesNewRomanPSMT"><tspan y="2137" x="849.5422"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="TimesNewRomanPSMT"><tspan y="2137" x="859.9589 876.1751 897.0113 917.8475 928.26766 949.1038 969.94 990.7762 1011.61239 1022.03256 1035.8967 1049.761 1070.5972 1081.0173 1104.2056 1118.0698 1138.906 1159.7422 1173.6065 1192.0907 1208.3069 1224.5231">Jun 2025 (In Progress)</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="BookmanOldStyle"><tspan y="2137" x="1238.397"> </tspan></text>
 </g>
+<path transform="matrix(1,0,0,-1,0,792)" d="M53.28 150.72H124.56V149.28H53.28Z"/>
+<path transform="matrix(1,0,0,-1,0,792)" d="M124.56 150.72H126V149.28H124.56Z"/>
+<path transform="matrix(1,0,0,-1,0,792)" d="M126 150.72H338.16V149.28H126Z"/>
+<path transform="matrix(1,0,0,-1,0,792)" d="M338.16 150.72H339.6V149.28H338.16Z"/>
+<path transform="matrix(1,0,0,-1,0,792)" d="M339.6 150.72H558.72V149.28H339.6Z"/>
 <g clip-path="url(#clip_19)">
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="1519" x="1483.375 1507.8148 1531.9786 1555.6365 1570.4163 1592.3721 1602.8739 1626.9457 1649.7295 1665.7053 1676.2072 1693.563 1715.1049 1740.6487 1764.8125 1788.8843 1801.134 1811.4978 1839.7096 1863.8734 1883.2532 1902.587 1925.3709 1937.3906 1948.8124 1959.1762 1982.282 2006.3538 2030.4255 2053.2095 2069.1854 2093.257 2115.811 2130.6829 2153.4669 2171.3746">Containeriza3on: Docker, Kubernetes.</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="1519" x="2183.161"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="1597" x="1483.375 1507.8148 1531.9786 1555.7744 1580.0303 1601.618 1625.6898 1640.7456 1662.2875 1687.8313 1711.9951 1736.0669 1746.4307 1785.6365 1807.5923 1831.6641 1853.6199 1874.7937 1897.5775 1934.2073 1956.9911 1980.6489 1995.9807 2008.2305 2018.5942 2045.104 2069.1759 2087.0836 2097.5853 2121.657 2132.1588 2154.9427">Con&#xfb01;gura3on Management: Ansible.</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="1597" x="2166.668"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="1675" x="1483.375 1507.0512 1522.3095 1546.4917 1568.0519 1583.0801 1605.0543 1641.6565 1678.2587 1688.7789 1712.8692 1734.4293 1746.6975 1757.0797 1781.0319 1801.994 1817.3442 1841.4345 1865.6167 1889.7069 1901.1471 1911.5293 1940.4495 1964.6317">Programming: Python, Go.</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="1675" x="1976.106"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="1753" x="1483.375 1504.4338 1523.7907 1539.7894 1550.3142">Scrip</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="1753" x="1574.191 1599.7256 1623.7882 1645.3668 1657.6535 1668.008 1692.9447 1714.8914 1732.8359 1756.8986 1768.3572">3ng: Bash, </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="1753" x="1778.696">P</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="1753" x="1802.642 1823.6134 1838.9729 1863.0724 1887.2178">ython</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="1753" x="1911.294">.</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="1753" x="1922.865"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="1831" x="1483.375 1509.894 1533.561 1545.1301 1589.5431 1618.4541 1639.9591 1654.7942 1677.3572 1709.6262 1730.7172 1751.0263 1768.9432 1781.2023 1825.6152 1847.9943 1884.5873 1895.0983 1913.0153 1930.9323 1952.8972 1969.1122 1989.8812 2034.2942 2048.2093 2074.7283 2111.3214 2135.402 2157.367 2175.284 2193.201 2215.1658 2239.2467 2263.4195 2279.4044">API Gateways: Emissary (Ambassador)</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="1831" x="2293.397">,</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="1831" x="2304.833"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="1876" x="1483.375 1493.8952 1517.9854 1539.5455 1554.8958">ingre</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="1876" x="1577.727 1595.6532">ss</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="1876" x="1613.579">-</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="1876" x="1627.611 1651.692 1673.243 1683.754 1707.4212">nginx</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="1876" x="1727.29">.</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="1876" x="1738.86"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24238812 0 -0 .23763542 0 190.08002)" font-size="49.507379" font-family="FranklinGothic"><tspan y="2302.9544" x="219.81285 245.48738 273.2412 301.04454 327.7092 355.41355 383.16737 409.83204 436.79374">Languages</tspan></text>
+<text xml:space="preserve" transform="matrix(.24238812 0 -0 .23763542 0 190.08002)" font-size="49.507379" font-family="FranklinGothic"><tspan y="2302.9544" x="219.81285 245.48738 273.2412 301.04454 327.7092 355.41355 383.16737 409.83204 436.79374">Languages</tspan></text>
 </g>
 <g clip-path="url(#clip_20)">
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="1954" x="1483.375 1512.2907 1522.8063 1538.1519 1568.4934 1592.349 1610.2706 1622.5343 1632.912 1659.4356 1674.7811 1696.0607 1720.2383 1744.6919 1771.6754 1783.1111 1793.4888 1822.0364 1844.834 1855.3496 1891.6712 1915.9408 1926.4564 1949.254 1960.6897 1971.0674 1991.749 2016.2026 2026.7183 2050.8038 2068.2193 2083.0589 2105.8565 2117.2">GitOps: ArgoCD, Helm&#xfb01;le, vCluster.</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="50" font-family="Mangal" font-weight="bold"><tspan y="2281" x="464.7736"> </tspan></text>
 </g>
 <g clip-path="url(#clip_21)">
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="1954" x="2128.779"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="50" font-family="Mangal" font-weight="bold"><tspan y="2281" x="489.7736"> </tspan></text>
 </g>
-<path transform="matrix(1,0,0,-1,0,792)" d="M53.28 276H124.56V274.56H53.28Z"/>
-<path transform="matrix(1,0,0,-1,0,792)" d="M124.56 276H126V274.56H124.56Z"/>
-<path transform="matrix(1,0,0,-1,0,792)" d="M126 276H338.16V274.56H126Z"/>
-<path transform="matrix(1,0,0,-1,0,792)" d="M338.16 276H339.6V274.56H338.16Z"/>
-<path transform="matrix(1,0,0,-1,0,792)" d="M339.6 276H341.76V274.56H339.6Z"/>
-<path transform="matrix(1,0,0,-1,0,792)" d="M341.76 276H343.2V274.56H341.76Z"/>
-<path transform="matrix(1,0,0,-1,0,792)" d="M343.2 276H558.72V274.56H343.2Z"/>
 <g clip-path="url(#clip_22)">
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="50" font-family="Mangal" font-weight="bold"><tspan y="2074" x="224.9166 260.58659 290.49159 320.39659 347.39659 377.30158 392.80659 405.69657 435.60157">Education</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="TimesNewRomanPSMT"><tspan y="2281" x="514.7736 544.8624 565.7112 579.58798 598.0847 609.6515 630.50027 642.067 660.5638 681.41256 692.9793 703.4121 733.5009 751.9977 763.56448 775.1312 795.98">Ukrainian: Native</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="TimesNewRomanPSMT"><tspan y="2281" x="814.4358">;</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="TimesNewRomanPSMT"><tspan y="2281" x="826.0121"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="TimesNewRomanPSMT"><tspan y="2281" x="836.4288 861.8808 882.71279 903.54476 915.1367 926.7287 942.9407 963.77267 975.3646 985.7806 1013.5846">English: B2</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="TimesNewRomanPSMT"><tspan y="2281" x="1034.366">+</tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="TimesNewRomanPSMT"><tspan y="2287" x="1057.864"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle"><tspan y="2281" x="1064.917"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle"><tspan y="2281" x="1078.243"> </tspan></text>
 </g>
 <g clip-path="url(#clip_23)">
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="2074" x="465.5172"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="2263" x="1678"> </tspan></text>
 </g>
-<g clip-path="url(#clip_24)">
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle"><tspan y="2057" x="549.0001 579.8239 604.0117 619.8415 632.3113 655.65908 683.16488 707.35269 719.82247 733.1322 758.958 780.6258 802.2936 829.7994 857.3052 869.77499 891.44277 915.63058 928.10037 941.4101 973.9139 1001.4197 1013.88949 1035.5573 1057.2251 1075.5748 1097.2427 1109.7124 1125.5422 1148.05 1161.3599 1184.7077 1198.0175 1211.3273 1243.831 1269.6569 1288.0066 1312.1943 1324.6641 1352.1698 1373.8377 1387.1475 1396.3412 1426.367 1448.8748 1461.3445 1483.0122 1496.322 1522.1478 1545.4956 1557.9653 1580.4732 1596.303 1617.9707 1639.6384 1667.1442 1694.6499 1707.1196 1728.7874 1742.0972 1756.247 1783.7527 1805.4204 1821.2503 1833.72 1849.5498 1877.8956 1893.7255 1915.3933">National Technical University of Ukraine 'Kyiv Polytechnic Institute'</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="2057" x="1924.753"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle"><tspan y="2110" x="549.0001 579.0091 601.50009 613.99508 635.64608 648.981 662.316 692.32498 714.8159 727.3109 748.9619 762.2969 793.1039 805.5989 821.41189 843.90286 857.2378 870.57278 903.05978 928.91079 947.2438 971.4148 983.9098 1011.3988 1033.0498">Kyiv, Kyiv City, Ukraine </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="2110" x="1046.437"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle"><tspan y="2162" x="549.0001 579.8239 609.84976 623.1595 635.6293 663.1351 676.4448 706.47067 718.9404 740.6082 762.276 778.1058 796.4136 819.76138 847.26718 859.73696 881.4047 903.0725 916.38229 940.57009 968.07589 993.9017 1007.2114 1038.0353 1061.383 1100.5648 1139.7466 1168.0924 1195.5982 1208.0679 1229.7356 1253.9234 1269.7532 1282.2229 1305.5707 1333.0764">BE in Electronics and Communications</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle"><tspan y="2162" x="1354.807"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle"><tspan y="2162" x="1368.132 1398.141 1425.63 1448.121 1460.616 1488.105 1509.756 1531.407 1549.74 1562.235 1589.724 1612.215 1625.5499">Engineering  </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="2162" x="1638.966"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="SymbolMT"><tspan y="2222" x="594">&#x2022;</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="ArialMT"><tspan y="2222" x="615.0818"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle"><tspan y="2222" x="669.0002 696.506 718.17379 743.9996 757.3094 783.1352 808.961 834.7868 860.6126">Sep 2021 </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle"><tspan y="2222" x="874.0173">-</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle"><tspan y="2222" x="890.6799"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle"><tspan y="2222" x="904.006 929.0086 957.3292 984.8518 998.1784 1024.021 1049.8637 1075.7063 1101.549 1114.8755 1127.362 1141.5287 1169.0513 1182.3778 1208.2205 1226.545 1249.8677 1272.3922 1290.7168 1312.4014 1334.0859 1355.7705">Jun 2025 (In Progress)</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="BookmanOldStyle"><tspan y="2222" x="1368.178"> </tspan></text>
-</g>
-<path transform="matrix(1,0,0,-1,0,792)" d="M53.28 130.56H124.56V129.12H53.28Z"/>
-<path transform="matrix(1,0,0,-1,0,792)" d="M124.56 130.56H126V129.12H124.56Z"/>
-<path transform="matrix(1,0,0,-1,0,792)" d="M126 130.56H338.16V129.12H126Z"/>
-<path transform="matrix(1,0,0,-1,0,792)" d="M338.16 130.56H339.6V129.12H338.16Z"/>
-<path transform="matrix(1,0,0,-1,0,792)" d="M339.6 130.56H558.72V129.12H339.6Z"/>
-<g clip-path="url(#clip_25)">
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="50" font-family="Mangal" font-weight="bold"><tspan y="2367" x="222.0001 251.90512 281.81013 311.71513 341.62013 371.52513 401.4301 431.3351 461.2401 488.2401">Languages </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="50" font-family="Mangal" font-weight="bold"><tspan y="2367" x="513.2599"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle"><tspan y="2367" x="538.2599 570.7511 596.60629 614.9434 639.1186 651.6178 679.11099 691.61019 715.78536 743.27859 756.6178 769.95706 800.76828 824.9434 840.7606 853.2598 874.91506">Ukrainian: Native</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle"><tspan y="2367" x="896.5566">;</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle"><tspan y="2367" x="909.8826"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle"><tspan y="2367" x="923.2087 953.21768 980.70669 1003.19766 1015.6926 1028.1876 1049.8386 1077.3276 1090.6626 1103.9976 1134.8046">English: B2</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle"><tspan y="2367" x="1160.696">+</tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle"><tspan y="2371" x="1185.701"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle"><tspan y="2367" x="1254.497"> </tspan></text>
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="42" font-family="BookmanOldStyle"><tspan y="2367" x="1267.823"> </tspan></text>
-</g>
-<g clip-path="url(#clip_26)">
-<text xml:space="preserve" transform="matrix(.24 0 -0 .24 0 190.08002)" font-size="46" font-family="Calibri"><tspan y="2347" x="1678"> </tspan></text>
-</g>
-<path transform="matrix(1,0,0,-1,0,792)" d="M53.28 60.72002H124.56V59.28002H53.28Z"/>
-<path transform="matrix(1,0,0,-1,0,792)" d="M124.56 60.72002H126V59.28002H124.56Z"/>
-<path transform="matrix(1,0,0,-1,0,792)" d="M126 60.72002H402.72V59.28002H126Z"/>
-<path transform="matrix(1,0,0,-1,0,792)" d="M402.72 60.72002H404.16V59.28002H402.72Z"/>
-<path transform="matrix(1,0,0,-1,0,792)" d="M404.16 60.72002H558.72V59.28002H404.16Z"/>
-<path transform="matrix(1,0,0,-1,0,792)" d="M52.56 26.64002H402.72V25.20002H52.56Z"/>
-<path transform="matrix(1,0,0,-1,0,792)" d="M402 26.64002H403.44V25.20002H402Z"/>
-<path transform="matrix(1,0,0,-1,0,792)" d="M403.44 26.64002H558.72V25.20002H403.44Z"/>
+<path transform="matrix(1,0,0,-1,0,792)" d="M53.28 80.88002H124.56V79.44002H53.28Z"/>
+<path transform="matrix(1,0,0,-1,0,792)" d="M124.56 80.88002H126V79.44002H124.56Z"/>
+<path transform="matrix(1,0,0,-1,0,792)" d="M126 80.88002H402.72V79.44002H126Z"/>
+<path transform="matrix(1,0,0,-1,0,792)" d="M402.72 80.88002H404.16V79.44002H402.72Z"/>
+<path transform="matrix(1,0,0,-1,0,792)" d="M404.16 80.88002H558.72V79.44002H404.16Z"/>
+<path transform="matrix(1,0,0,-1,0,792)" d="M52.56 46.80002H402.72V45.36002H52.56Z"/>
+<path transform="matrix(1,0,0,-1,0,792)" d="M402 46.80002H403.44V45.36002H402Z"/>
+<path transform="matrix(1,0,0,-1,0,792)" d="M403.44 46.80002H558.72V45.36002H403.44Z"/>
 </svg>
